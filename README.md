@@ -2,7 +2,7 @@
 # Hexzy (A telegram Bot Project)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/rsrofficial)
 
-## https://SlTechCom.webnode.com
+## https://library-mizo.blogspot.com
 ## Avaiilable on Telegram as [RSR](https://t.me/rsrmusic)
 
 ## How to setup/deploy.
