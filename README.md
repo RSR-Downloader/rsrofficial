@@ -3,7 +3,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/Hexzybot)
 
 ## https://SlTechCom.webnode.com
-## Avaiilable on Telegram as [@HexzyBot](https://t.me/Hexzybot)
+## Avaiilable on Telegram as [RSR](https://t.me/rsrmusic)
 
 ## How to setup/deploy.
 
@@ -185,7 +185,7 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Hexzy Support](https://t.me/GangOfMafiaTeam)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Mizo Library](https://t.me/mizolibrary)
 ## How to setup on Heroku 
 For starters click on this button 
 
@@ -193,11 +193,11 @@ For starters click on this button
 
 
 ## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
+The bot is based on the original work done by [RSR](https://github.com/RSR-Downloader)
 This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [Gang Of Mafia](https://t.me/GangOfMafiaTeam) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [RSR](https://t.me/rsrmusic) or simply submit a pull request on the readme.
