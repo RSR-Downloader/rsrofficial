@@ -431,7 +431,7 @@ def Hexzy_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of RSR for the best performance.*"
-            f"\n\nBased on [RSR](https://github.com/RSR-Downloader/rsrofficial) + [Mami](https://github.com/RSR-Downloader/mizokania) ."
+            f"\n\nBased on [RSR](https://github.com/RSR-Downloader/rsrofficial) + [Mami](https://github.com/RSR-Downloader/mizokani) ."
             f"\n\n{dispatcher.bot.first_name}'s source code was written by Prabhasha"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
