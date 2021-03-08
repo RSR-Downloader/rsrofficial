@@ -186,13 +186,13 @@ def new_member(update: Update, context: CallbackContext):
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "Oh my! Hey Owner, let's get this moving (｡•̀ᴗ-)✧.",
+                    "Oh yess....Welcome Master😍🥰",
                     reply_to_message_id=reply,
                 )
                 welcome_log = (
                     f"{html.escape(chat.title)}\n"
                     f"#USER_JOINED\n"
-                    f"යේ හුරේ මගේ අයිතිකාරය මේ ගෲප් එකට Join උනෝ . . . ❤️"
+                    f"Welcome. . . ❤️"
                 )
                 continue
 
