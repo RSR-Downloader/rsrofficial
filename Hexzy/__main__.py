@@ -63,7 +63,7 @@ from Hexzy.modules.helper_funcs.misc import paginate_modules
 from Hexzy.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Robot 2.0](https://telegra.ph/file/47caadaea13d54e062d1b.jpg)
+Hello there, I'm [Robot 3.0](https://telegra.ph/file/47caadaea13d54e062d1b.jpg)
 
 I am Group Managing Bot and I will help in managing your group
 
@@ -90,7 +90,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Me to Your Group 🎨", url="t.me/robot20_bot?startgroup=true"
+            text="➕ Add Me to Your Group 🎨", url="t.me/mizo30bot?startgroup=true"
         ),
     ],
 ]
