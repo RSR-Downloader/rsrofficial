@@ -63,32 +63,32 @@ from Hexzy.modules.helper_funcs.misc import paginate_modules
 from Hexzy.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [RSR💋](https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg)
+Hello there, I'm [Robot 2.0](https://telegra.ph/file/47caadaea13d54e062d1b.jpg)
 
 I am Group Managing Bot and I will help in managing your group
 
-✪ Make sure you read *INFO* Section Below ✪ 
+✪ Click👉 /help for more info ✪ 
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text="🚀 INFO 🚀", callback_data="aboutmanu_"),
-        InlineKeyboardButton(text=" 🦠 Update Channel ", url="https://t.me/mizolibrary"),
+        InlineKeyboardButton(text="🚸 Support Group", url="https://t.me/rsrtginfo"),
+        InlineKeyboardButton(text=" 🚸 Support Channel ", url="https://t.me/mizolibrary"),
     ],
     [
         InlineKeyboardButton(
-            text="⛑ Help & Commands ❓", url="https://t.me/rsrofficialbot?start=help"
+            text="🔐 Help & Support", url="https://t.me/rsr_help_bot?start=true"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="🚑 Support Group", url="https://t.me/mp3andvideodownloader"
+            text="🔔 YouTube Channel", url="https://youtube.com/c/ArtInMirror"
         ),
-        InlineKeyboardButton(text=" ⚡️ Developer ", url="https://t.me/rsrmusic"),
+        InlineKeyboardButton(text=" 🛠️ Developer ", url="https://t.me/rsrmusic"),
     ],
     [
         InlineKeyboardButton(
-            text="➕ Add Me to Your Group 🎨", url="t.me/rsrofficialbot?startgroup=true"
+            text="➕ Add Me to Your Group 🎨", url="t.me/robot20_bot?startgroup=true"
         ),
     ],
 ]
@@ -107,7 +107,7 @@ HELP_STRINGS = f"""
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-RSR_IMG = "https://1.bp.blogspot.com/-EQt2ZDkVjBo/Xxh2VMVfKMI/AAAAAAAAABM/k7vSi2w3iqoacCD4KVQ1_B3k2APLFfSywCLcBGAsYHQ/s1600/FB_IMG_1579930873363.jpg"
+RSR_IMG = "https://telegra.ph/file/47caadaea13d54e062d1b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
