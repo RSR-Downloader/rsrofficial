@@ -190,9 +190,7 @@ def new_member(update: Update, context: CallbackContext):
                     reply_to_message_id=reply,
                 )
                 welcome_log = (
-                    f"{html.escape(chat.title)}\n"
-                    f"#USER_JOINED\n"
-                    f"Welcome. . . ❤️"
+                    f"{html.escape(chat.title)}\n" f"#USER_JOINED\n" f"Welcome. . . ❤️"
                 )
                 continue
 
