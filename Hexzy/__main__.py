@@ -73,7 +73,9 @@ I am Group Managing Bot and I will help in managing your group
 buttons = [
     [
         InlineKeyboardButton(text="🚸 Support Group", url="https://t.me/rsrtginfo"),
-        InlineKeyboardButton(text=" 🚸 Support Channel ", url="https://t.me/mizolibrary"),
+        InlineKeyboardButton(
+            text=" 🚸 Support Channel ", url="https://t.me/mizolibrary"
+        ),
     ],
     [
         InlineKeyboardButton(
